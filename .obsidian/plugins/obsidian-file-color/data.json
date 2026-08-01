@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "PnnGmclWIaISnaPCWnAw8",
+      "name": "deep blue-gray",
+      "value": "#355872"
+    },
+    {
+      "id": "1R1SbuqcF0lhcVZHpLnz7",
+      "name": "deep burgundy",
+      "value": "#92003a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "University",
+      "color": "PnnGmclWIaISnaPCWnAw8"
+    },
+    {
+      "path": "University/COA",
+      "color": "1R1SbuqcF0lhcVZHpLnz7"
+    }
+  ]
+}
