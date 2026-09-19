@@ -164,16 +164,6 @@
             }
           },
           {
-            "id": "b040bb6cbde2780e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "dc55fc9385cabb8c",
             "type": "leaf",
             "state": {
@@ -184,17 +174,17 @@
             }
           },
           {
-            "id": "bc988105210b3db3",
+            "id": "3b5dffa057004ee4",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,6 +192,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,12 +201,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bc988105210b3db3",
+  "active": "dc55fc9385cabb8c",
   "lastOpenFiles": [
     "Github/JPG/Rizq.jpg",
     "Github/Welcome.md",
